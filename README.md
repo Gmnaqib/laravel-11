@@ -47,6 +47,8 @@ cd laravel-11
 composer install
 ```
 
+AND
+
 ```bash
 npm install
 ```
