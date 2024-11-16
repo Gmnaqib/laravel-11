@@ -43,6 +43,8 @@ git clone https://github.com/Gmnaqib/laravel-11.git
 cd laravel-11
 ```
 
+### Install Dependency
+
 ```bash
 composer install
 ```
