@@ -40,6 +40,14 @@ git clone https://github.com/Gmnaqib/laravel-11.git
 ```
 
 ```bash
+cd laravel-11
+```
+
+```bash
+composer install
+```
+
+```bash
 npm install
 ```
 
